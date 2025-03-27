@@ -1,10 +1,5 @@
-Content/** filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
+filter=lfs diff=lfs merge=lfs -text
 *.uasset filter=lfs diff=lfs merge=lfs -text
-.umap filter=lfs diff=lfs merge=lfs -text
-=======
 .uasset filter=lfs diff=lfs merge=lfs -text
 .umap filter=lfs diff=lfs merge=lfs -text
-*.uasset filter=lfs diff=lfs merge=lfs -text
->>>>>>> e18032080e41a6832cdd1b0810d453e34f5b467f
 *.umap filter=lfs diff=lfs merge=lfs -text
